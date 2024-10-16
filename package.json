@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "@medusajs/admin": "^7.1.16",
+    "cross-env": "^7.0.3",
     "@medusajs/cache-inmemory": "1.8.11",
     "@medusajs/cache-redis": "^1.9.2",
     "@medusajs/event-bus-local": "1.9.9",
