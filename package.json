@@ -43,7 +43,7 @@
     "medusa-payment-stripe": "6.0.11",
     "prism-react-renderer": "^2.0.4",
     "typeorm": "0.3.16",
-    "rimraf": "^3.0.2"
+    "rimraf": "^6.0.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.14.3",
